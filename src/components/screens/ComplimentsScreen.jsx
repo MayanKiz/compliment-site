@@ -4,6 +4,7 @@ import { Heart, MoveRight } from "lucide-react"
 const compliments = [
   "You look adorable",
   "You have the sweetest vibe",
+  "You're naturally charming and effortlessly gorgeous.",
   "You make things feel lighter",
   "You are naturally charming",
   "You make everything feel more special",
