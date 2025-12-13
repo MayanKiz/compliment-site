@@ -3,9 +3,19 @@ import { motion, AnimatePresence } from "framer-motion"
 import { Heart, MoveRight } from "lucide-react"
 
 const message = `
-I just wanted to tell you something... you really are special in a way that’s hard to explain.  
-There’s a softness in the way you talk, a sweetness in the way you smile, and something genuine about you that just feels good to be around.  
-You don’t try to be anything extra, you’re just you, and that’s what makes you so lovely.
+Main bas dil se ek baat kehna chahta hoon......
+Ankita, aap meri life ke un logon mein se ho jinke saath rehkar kabhi bhi ye feel nahi hua ki maine galat insaan ko apna maana ho.
+
+Aapne kabhi bhi mujhe ye ehsaas nahi hone diya ki mere efforts bekaar gaye. Hamesha itni achhi tarah se treat kiya, itni respect aur care di, ki naturally sab kuch comfortable lagta hai.
+
+Aap bina kisi extra dikhave ke hi bohot special ho. Aapki baaton mein softness hai, nature mein ek alag si warmth hai, aur aapki presence hi kaafi hoti hai saamne wale ko achha feel karane ke liye.
+Aur honestly, aap bohot beautiful ho, sirf looks ki wajah se nahi, balki aapke dil, aapki soch, aur aapke behaviour ki wajah se.
+baki toh cute aur looks se pucho hi na jitne sundar wo toh mai hi janata hum cutieee ☺️
+
+Kabhi ek pal ke liye bhi aisa nahi laga ki cousin ke saath saath aap ek bohot achhi dost bhi nahi ho. Aapke saath rehkar hamesha ye feeling aati hai ki cheezein sahi hain.
+
+Sach mein grateful hoon aap jaisi cousin aur dost ke liye...
+
 `
 
 export default function MessageScreen({ onNext }) {
